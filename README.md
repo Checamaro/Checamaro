@@ -2,17 +2,17 @@
 ![Header] (здесь будет ссылка на изображение фона профиля)
 
 ## About me
-(В этом пункте нужно написать информацию о себе.)
+()
 
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [Texas Massacre](), [AgeOfMystery](), [Chop chop]()
-- Mobile application - [Little Shooter](), [World Race]()
+- PC application - [BattleoftheWildWest](), [AgeOfMystery](), [Chop chop](), [HowToDiceMushrooms](), [Electric Trains](), [DemonsDespair](), [3DSnake]()
+- Mobile application - [Little Shooter](), [World Race](), [BaseDefences](), [FarmingFever]()
 
 ### Check-lists
-- Applications: [12](),  [BeastTraversing](),  [Demo](),
-  [DemonsDespai](),  [Electric Trains](),  [GMTKGameJam](),  [HowToDiceMushrooms](),  [Hyper Tear Demo](),  [The Adventures Of Leep And Bownd](),  [Toziuha Night - Order of the Alchemists](),  [Upscaled_V0.2]()
+- Applications: [BaseDefences](),  [BattleoftheWildWest](),  [Little Shooter](),
+  [DemonsDespair](),  [Electric Trains](),  [Chop chop](),  [HowToDiceMushrooms](),  [Hyper Tear Demo]()
 
 ### Test plans 
 - Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),

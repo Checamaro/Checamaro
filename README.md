@@ -2,7 +2,7 @@
 ![Header] (ссылка)
 
 ## About me
-()
+(Инженер по обеспечению качества с практическим опытом в тестировании WEB, mobile, API, а также автоматизации тестирования UI и API)
 
 ## Portfolio 
 
@@ -11,8 +11,8 @@
 - Mobile application - [Little Shooter](), [World Race](), [BaseDefences](), [FarmingFever]()
 
 ### Check-lists
-- Applications: [BaseDefences](),  [BattleoftheWildWest](),  [Little Shooter](),
-  [DemonsDespair](),  [Electric Trains](),  [Chop chop](),  [HowToDiceMushrooms](),  [Hyper Tear Demo]()
+- Applications: [BaseDefences](https://docs.google.com/spreadsheets/d/1qkpUA6CTMiBqGsrSKtS6EKw4TjPcVZAlH56_m1C-i4U/edit#gid=0),  [BattleoftheWildWest](https://docs.google.com/spreadsheets/d/1a6gVmc_A5PpJ6vg71rbKeeZf46j37qe9-cAjioNFkNE/edit?usp=sharing),  [Little Shooter](),
+  [DemonsDespair](),  [Electric Trains](https://docs.google.com/spreadsheets/d/1SRXxrrwE1vv2chwSk1MWKQ2yhQJaM_jzsD758jiH4w0/edit#gid=0),  [Chop chop](https://docs.google.com/spreadsheets/d/17kdEC_P9UsIEXVigrimr-BQ6DGYvOKMQXaI1HavL6xg/edit?usp=sharing),  [HowToDiceMushrooms](https://docs.google.com/spreadsheets/d/1DRGo7FEdzr_MF-lVWsZJEqA9t0zWbe8Wk8mOg1CmxDs/edit#gid=0),  [Hyper Tear Demo]()
 
 ### Test plans 
 - Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),

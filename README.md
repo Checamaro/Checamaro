@@ -7,7 +7,7 @@
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [BattleoftheWildWest](), [AgeOfMystery](), [Chop chop](), [HowToDiceMushrooms](), [Electric Trains](), [DemonsDespair](), [3DSnake]()
+- PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](), [DemonsDespair](), [3DSnake]()
 - Mobile application - [Little Shooter](), [World Race](), [BaseDefences](), [FarmingFever]()
 
 ### Check-lists

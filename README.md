@@ -7,8 +7,8 @@
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](), [DemonsDespair](), [3DSnake]()
-- Mobile application - [Little Shooter](), [World Race](), [BaseDefences](), [FarmingFever]()
+- PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](https://ru.yougile.com/board/qzngsiggi5x4), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](https://ru.yougile.com/board/div0lqpfu490), [DemonsDespair](https://ru.yougile.com/board/1qumqtofdg9s), [3DSnake](https://ru.yougile.com/board/ghzt1zugve3g)
+- Mobile application - [Little Shooter](https://ru.yougile.com/board/me5zmsfxnwnj), [World Race](), [BaseDefences](https://ru.yougile.com/board/znmg4uho8c9z), [FarmingFever]()
 
 ### Check-lists
 - Applications: [BaseDefences](https://docs.google.com/spreadsheets/d/1qkpUA6CTMiBqGsrSKtS6EKw4TjPcVZAlH56_m1C-i4U/edit#gid=0),  [BattleoftheWildWest](https://docs.google.com/spreadsheets/d/1a6gVmc_A5PpJ6vg71rbKeeZf46j37qe9-cAjioNFkNE/edit?usp=sharing),  [Little Shooter](),

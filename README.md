@@ -19,7 +19,7 @@
   [Little Shooter](),  [World Race]()
 
 ### Automation 
-- Applications: [demoqa](),  [Soucedemo](),  [Yandex_Eda]()
+- Applications: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

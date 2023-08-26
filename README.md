@@ -19,8 +19,7 @@
   [Little Shooter](),  [World Race]()
 
 ### Automation 
-- Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),
-  [Little Shooter](),  [World Race]()
+- Applications: [demoqa](),  [Soucedemo](),  [Yandex_Eda]()
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

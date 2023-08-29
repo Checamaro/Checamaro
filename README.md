@@ -34,7 +34,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-B2B2B2?style=for-the-badge&logo=JSON&logoColor=393939)
 ![Charles_Proxy](https://img.shields.io/badge/-Charles_Proxy-2B6D05?style=for-the-badge&logo=Charles_Proxy&logoColor=2B6D05)
 ![MySQL](https://img.shields.io/badge/-MySQL-5181A2?style=for-the-badge&logo=MySQL&logoColor=00337E)
-![C++](https://img.shields.io/badge/-C++-659AD2?style=for-the-badge&logo=C%2b%2b&logoColor=004482)
+![pytest](https://img.shields.io/badge/-pytest-659AD2?style=for-the-badge&logo=pytestb&logoColor=004482)
 ![Python](https://img.shields.io/badge/-Python-254A6B?style=for-the-badge&logo=Python&logoColor=FFE56A)
 ![DevTools](https://img.shields.io/badge/-DevTools-266EE4?style=for-the-badge&logo=DevTools&logoColor=266EE4)
 ![Unity](https://img.shields.io/badge/-Unity-757879?style=for-the-badge&logo=Unity&logoColor=000000)

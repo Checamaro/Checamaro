@@ -1,4 +1,4 @@
-# (Checamaro)
+# Checamaro
 ![card kirill](https://github.com/Checamaro/Checamaro/assets/123463231/3753b556-0426-4d8b-ad04-7e9286e1bf42)
 
 

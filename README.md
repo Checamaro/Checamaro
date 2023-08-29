@@ -42,7 +42,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-3A3B3D?style=for-the-badge&logo=HTML5&logoColor=64C18)
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 ![Selenium](https://img.shields.io/badge/-Selenium-254ADC?style=for-the-badge&logo=Selenium&logoColor=2094EF)
-![Appium](https://img.shields.io/badge/-Appium-254ADC?style=for-the-badge&logo=Appium&logoColor=4f0153)
+![Appium](https://img.shields.io/badge/-Appium-254ADC?style=for-the-badge&logo=Appium&logoColor=D6A639)
 
 
 

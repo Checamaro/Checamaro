@@ -8,13 +8,13 @@
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](https://ru.yougile.com/board/qzngsiggi5x4), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](https://ru.yougile.com/board/div0lqpfu490), [DemonsDespair](https://ru.yougile.com/board/1qumqtofdg9s), [3DSnake](https://ru.yougile.com/board/ghzt1zugve3g), [HyperTearDemo]([https://ru.yougile.com/board/evov5iugmiuq]),
+- PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](https://ru.yougile.com/board/qzngsiggi5x4), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](https://ru.yougile.com/board/div0lqpfu490), [DemonsDespair](https://ru.yougile.com/board/1qumqtofdg9s), [3DSnake](https://ru.yougile.com/board/ghzt1zugve3g), [HyperTearDemo](https://ru.yougile.com/board/evov5iugmiuq),
 - Mobile application - [Little Shooter](https://ru.yougile.com/board/me5zmsfxnwnj), [World Race](https://ru.yougile.com/board/qf4d7nmyyjci), [BaseDefences](https://ru.yougile.com/board/znmg4uho8c9z), [FarmingFever](https://ru.yougile.com/board/troiotda6391), 
 
 ### Check-lists
 - Applications: [BaseDefences](https://docs.google.com/spreadsheets/d/1qkpUA6CTMiBqGsrSKtS6EKw4TjPcVZAlH56_m1C-i4U/edit#gid=0),  [BattleoftheWildWest](https://docs.google.com/spreadsheets/d/1a6gVmc_A5PpJ6vg71rbKeeZf46j37qe9-cAjioNFkNE/edit?usp=sharing),  [Little Shooter](https://docs.google.com/spreadsheets/d/1RhosB6n2PVnkuE6yRgm5P2cIiICqlJDGaynidlPnt2E/edit#gid=0),
   [DemonsDespair](https://docs.google.com/spreadsheets/d/13FlwWInEe0wWsPu_DqQVrQdvmtEcglOq6HPCMPyCLu4/edit#gid=0),  [Electric Trains](https://docs.google.com/spreadsheets/d/1SRXxrrwE1vv2chwSk1MWKQ2yhQJaM_jzsD758jiH4w0/edit#gid=0),  [Chop chop](https://docs.google.com/spreadsheets/d/17kdEC_P9UsIEXVigrimr-BQ6DGYvOKMQXaI1HavL6xg/edit?usp=sharing),  [HowToDiceMushrooms](https://docs.google.com/spreadsheets/d/1DRGo7FEdzr_MF-lVWsZJEqA9t0zWbe8Wk8mOg1CmxDs/edit#gid=0),  [Hyper Tear Demo](https://docs.google.com/spreadsheets/d/1VDt5F4X3IVJ1WS7CLfmrotyvHygQQNuWHFhY-KaDIcY/edit#gid=0),
-  [FarmingFever]([https://docs.google.com/spreadsheets/d/13FlwWInEe0wWsPu_DqQVrQdvmtEcglOq6HPCMPyCLu4/edit#gid=0])
+  [FarmingFever](https://docs.google.com/spreadsheets/d/13FlwWInEe0wWsPu_DqQVrQdvmtEcglOq6HPCMPyCLu4/edit#gid=0)
 
 ### Test plans 
 - Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),

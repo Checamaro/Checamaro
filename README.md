@@ -24,7 +24,7 @@
 - UI: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()
 - API: [Temperature_sensor]()
 
-## Languages and Tools
+## Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
 ![GameTesting](https://img.shields.io/badge/-GameTesting-FAB000?style=for-the-badge&logo=GameTesting&logoColor=FAB000)
 ![MobileTesting](https://img.shields.io/badge/-MobileTesting-4592C1?style=for-the-badge&logo=MobileTesting&logoColor=4592C1)

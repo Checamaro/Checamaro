@@ -21,7 +21,8 @@
   [Little Shooter](),  [World Race]()
 
 ### Automation 
-- Applications: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()
+- UI: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()
+- API: [Temperature_sensor]()
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

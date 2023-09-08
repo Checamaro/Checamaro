@@ -17,8 +17,8 @@
   [FarmingFever](https://docs.google.com/spreadsheets/d/13FlwWInEe0wWsPu_DqQVrQdvmtEcglOq6HPCMPyCLu4/edit#gid=0)
 
 ### Test plans 
-- Applications: [Texas Massacre](),  [AgeOfMystery](),  [Chop chop](),
-  [Little Shooter](),  [World Race]()
+- Applications: [Battle_of_the_Wild_West](https://docs.google.com/document/d/1OzxZYrdJZBfvEXfjIIjCeyrTIbtwCD6EIOBFBOB6EVw/edit?usp=sharing),  [AgeOfMystery](),  [Chop chop](https://docs.google.com/document/d/1FNKvTsM8AhAhhdqVVkHA9Fa-J6t_JpkCK-TiZ-EZ2Xk/edit?usp=sharing),
+  [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race]()
 
 ### Automation 
 - UI: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()

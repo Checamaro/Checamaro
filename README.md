@@ -17,8 +17,8 @@
   [FarmingFever](https://docs.google.com/spreadsheets/d/13FlwWInEe0wWsPu_DqQVrQdvmtEcglOq6HPCMPyCLu4/edit#gid=0)
 
 ### Test plans 
-- Applications: [Battle_of_the_Wild_West](https://docs.google.com/document/d/1OzxZYrdJZBfvEXfjIIjCeyrTIbtwCD6EIOBFBOB6EVw/edit?usp=sharing),  [AgeOfMystery](),  [Chop chop](https://docs.google.com/document/d/1FNKvTsM8AhAhhdqVVkHA9Fa-J6t_JpkCK-TiZ-EZ2Xk/edit?usp=sharing),
-  [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race]()
+- Applications: [Battle_of_the_Wild_West](https://docs.google.com/document/d/1OzxZYrdJZBfvEXfjIIjCeyrTIbtwCD6EIOBFBOB6EVw/edit?usp=sharing),  [BaseDefences](https://docs.google.com/document/d/1Yh7CS5nNQATahaQo_Cxf7O4qtLItpLevrUDnB2CMiRg/edit?usp=sharing),  [Chop chop](https://docs.google.com/document/d/1FNKvTsM8AhAhhdqVVkHA9Fa-J6t_JpkCK-TiZ-EZ2Xk/edit?usp=sharing),
+  [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race](https://docs.google.com/document/d/1uuXU0PIL_1SLDoe1BCbxwO6wW9APeIlAkzplJNifiq4/edit?usp=sharing)
 
 ### Automation 
 - UI: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()

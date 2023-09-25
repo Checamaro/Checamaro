@@ -24,6 +24,10 @@
 - UI: [DemoQA](),  [SouceDemo](),  [Yandex_Eda]()
 - API: [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 
+### Manual test-cases 
+- UI: 
+- API: [Insurance](https://drive.google.com/drive/folders/1wLPmasKyCDrq4h5HUcsuPtTJXqQr8YDX?usp=sharing)
+
 ## Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
 ![GameTesting](https://img.shields.io/badge/-GameTesting-FAB000?style=for-the-badge&logo=GameTesting&logoColor=FAB000)

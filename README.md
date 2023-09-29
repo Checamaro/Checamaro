@@ -49,6 +49,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 ![Selenium](https://img.shields.io/badge/-Selenium-254ADC?style=for-the-badge&logo=Selenium&logoColor=2094EF)
 ![Appium](https://img.shields.io/badge/-Appium-254ADC?style=for-the-badge&logo=Appium&logoColor=D6A639)
+![Linux](https://img.shields.io/badge/-Linux-254ADC?style=for-the-badge&logo=Linux&logoColor=D6A639)
 
 
 

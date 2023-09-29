@@ -42,6 +42,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-5181A2?style=for-the-badge&logo=MySQL&logoColor=00337E)
 ![pytest](https://img.shields.io/badge/-pytest-659AD2?style=for-the-badge&logo=pytestb&logoColor=004482)
 ![Python](https://img.shields.io/badge/-Python-254A6B?style=for-the-badge&logo=Python&logoColor=FFE56A)
+![CI/CD](https://img.shields.io/badge/-CI/CD-254ADC?style=for-the-badge&logo=CI/CD&logoColor=D6A639)
 ![DevTools](https://img.shields.io/badge/-DevTools-266EE4?style=for-the-badge&logo=DevTools&logoColor=266EE4)
 ![Unity](https://img.shields.io/badge/-Unity-757879?style=for-the-badge&logo=Unity&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-181617?style=for-the-badge&logo=Git&logoColor=F0F0F0)
@@ -51,7 +52,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-254ADC?style=for-the-badge&logo=Selenium&logoColor=2094EF)
 ![Appium](https://img.shields.io/badge/-Appium-254ADC?style=for-the-badge&logo=Appium&logoColor=D6A639)
 ![Linux](https://img.shields.io/badge/-Linux-254ADC?style=for-the-badge&logo=Linux&logoColor=D6A639)
-![CI/CD](https://img.shields.io/badge/-CI/CD-254ADC?style=for-the-badge&logo=CI/CD&logoColor=D6A639)
+
 
 
 

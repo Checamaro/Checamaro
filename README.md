@@ -21,7 +21,9 @@
   [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race](https://docs.google.com/document/d/1uuXU0PIL_1SLDoe1BCbxwO6wW9APeIlAkzplJNifiq4/edit?usp=sharing)
 
 ### Automation 
-- UI: [Automation Practice](), 
+- UI:
+  - [Selenium, PyTest](https://github.com/Checamaro/ui_practice.git),
+  - [Appium]() 
 - API: [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 
 ### Manual test-cases 

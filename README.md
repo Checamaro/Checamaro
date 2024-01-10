@@ -22,7 +22,7 @@
 
 ### Automation 
 - UI:
-  - [Selenium, PyTest](https://github.com/Checamaro/xcom_shop_project.git)
+  - [Selenium, PyTest,"xcom-shop.ru"](https://github.com/Checamaro/xcom_shop_project.git)
   - [Appium]() 
 - API: [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 

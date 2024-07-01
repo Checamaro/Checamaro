@@ -21,10 +21,10 @@
   [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race](https://docs.google.com/document/d/1uuXU0PIL_1SLDoe1BCbxwO6wW9APeIlAkzplJNifiq4/edit?usp=sharing)
 
 ### Automation 
-- UI:
-  - [Selenium, PyTest,"xcom-shop.ru"](https://github.com/Checamaro/xcom_shop_project.git)
-  - [Appium]() 
-- API: [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
+- UI and Mobile:
+  - [Selenium, PyTest,"pikabu.ru"](https://github.com/Checamaro/web-and-mobile-pikabu-tests.git)
+  
+- API: [Petstore swagger](https://github.com/Checamaro/petstore-api-test-framework.git) [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 
 ## Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

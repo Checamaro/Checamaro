@@ -1,6 +1,6 @@
 # Checamaro
 ![card kirill](https://github.com/Checamaro/Checamaro/assets/123463231/3753b556-0426-4d8b-ad04-7e9286e1bf42)
-![card kirill](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259C%25D0%25B0%25D1%2582%25D1%2580%25D0%25B8%25D1%2586%25D0%25B0_%2528%25D1%2584%25D1%2580%25D0%25B0%25D0%25BD%25D1%2588%25D0%25B8%25D0%25B7%25D0%25B0%2529&psig=AOvVaw24iJ2N6PDUzKDs81Tddcjy&ust=1719927772778000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDwlLT8hYcDFQAAAAAdAAAAABAE)
+
 
 ## About me
 Инженер по обеспечению качества с практическим опытом в тестировании WEB, mobile, API, а также автоматизации тестирования UI и API

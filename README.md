@@ -24,7 +24,7 @@
 - WEB and Mobile:
   - ["pikabu.ru"](https://github.com/Checamaro/web-and-mobile-pikabu-tests.git)
   
-- API: ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
+- API:  ["Boat API"](https://github.com/Checamaro/boat_api.git), ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 
 ## Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

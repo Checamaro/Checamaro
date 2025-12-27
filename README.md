@@ -20,7 +20,7 @@
 
 ### Automation 
 - Performance:
-  - [Test Project](https://github.com/Checamaro/performance-test-project.git) 
+  - [Test Project](https://github.com/Checamaro/performance-tests.git) 
 - WEB and Mobile:
   - ["pikabu.ru"](https://github.com/Checamaro/web-and-mobile-pikabu-tests.git)
 - API:

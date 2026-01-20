@@ -21,7 +21,7 @@
 ### Automation 
 - Performance:
   - [performance-tests](https://github.com/Checamaro/performance-tests.git) 
-- WEB and Mobile:
+- UI:
   - [autotests-ui](https://github.com/Checamaro/autotests-ui.git)
 - API:
   - ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)

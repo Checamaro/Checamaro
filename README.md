@@ -20,9 +20,9 @@
 
 ### Automation 
 - Performance:
-  - [Test Project](https://github.com/Checamaro/performance-tests.git) 
+  - [performance-tests](https://github.com/Checamaro/performance-tests.git) 
 - WEB and Mobile:
-  - ["pikabu.ru"](https://github.com/Checamaro/web-and-mobile-pikabu-tests.git)
+  - [autotests-ui](https://github.com/Checamaro/autotests-ui.git)
 - API:
   - ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 

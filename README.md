@@ -5,6 +5,14 @@
 
 ## Portfolio 
 
+### Automation 
+- Performance:
+  - [performance-tests](https://github.com/Checamaro/performance-tests.git) 
+- UI:
+  - [autotests-ui](https://github.com/Checamaro/autotests-ui.git)
+- API:
+  - ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
+
 ### Bug reports 
 - PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](https://ru.yougile.com/board/qzngsiggi5x4), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](https://ru.yougile.com/board/div0lqpfu490), [DemonsDespair](https://ru.yougile.com/board/1qumqtofdg9s), [3DSnake](https://ru.yougile.com/board/ghzt1zugve3g), [HyperTearDemo](https://ru.yougile.com/board/evov5iugmiuq),
 - Mobile application - [Little Shooter](https://ru.yougile.com/board/me5zmsfxnwnj), [World Race](https://ru.yougile.com/board/qf4d7nmyyjci), [BaseDefences](https://ru.yougile.com/board/znmg4uho8c9z), [FarmingFever](https://ru.yougile.com/board/troiotda6391), [Battle Arena: Heroes Adventure](https://ru.yougile.com/board/9tzdeqw0rdhm),
@@ -17,14 +25,6 @@
 ### Test plans 
 - Applications: [Battle_of_the_Wild_West](https://docs.google.com/document/d/1OzxZYrdJZBfvEXfjIIjCeyrTIbtwCD6EIOBFBOB6EVw/edit?usp=sharing),  [BaseDefences](https://docs.google.com/document/d/1Yh7CS5nNQATahaQo_Cxf7O4qtLItpLevrUDnB2CMiRg/edit?usp=sharing),  [Chop chop](https://docs.google.com/document/d/1FNKvTsM8AhAhhdqVVkHA9Fa-J6t_JpkCK-TiZ-EZ2Xk/edit?usp=sharing),
   [Little Shooter](https://docs.google.com/document/d/1WoP46rH0i8Td8Cpc7La8UFmCOtnBtGXV_CmhPM-L3Wg/edit?usp=sharing),  [World Race](https://docs.google.com/document/d/1uuXU0PIL_1SLDoe1BCbxwO6wW9APeIlAkzplJNifiq4/edit?usp=sharing)
-
-### Automation 
-- Performance:
-  - [performance-tests](https://github.com/Checamaro/performance-tests.git) 
-- UI:
-  - [autotests-ui](https://github.com/Checamaro/autotests-ui.git)
-- API:
-  - ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
 
 ## Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)

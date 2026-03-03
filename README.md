@@ -11,7 +11,7 @@
 - UI:
   - [autotests-ui](https://github.com/Checamaro/autotests-ui.git)
 - API:
-  - ["Petstore Swagger"](https://github.com/Checamaro/petstore-api-test-framework.git), [Temperature_sensor](https://github.com/Checamaro/pythonTest.git)
+  - ["autotests-api"](https://github.com/Checamaro/autotests-api.git)
 
 ### Bug reports 
 - PC application - [BattleoftheWildWest](https://ru.yougile.com/board/d70jgwgebmnk), [AgeOfMystery](https://ru.yougile.com/board/qzngsiggi5x4), [Chop chop](https://ru.yougile.com/board/evov5iugmiuq), [HowToDiceMushrooms](), [Electric Trains](https://ru.yougile.com/board/div0lqpfu490), [DemonsDespair](https://ru.yougile.com/board/1qumqtofdg9s), [3DSnake](https://ru.yougile.com/board/ghzt1zugve3g), [HyperTearDemo](https://ru.yougile.com/board/evov5iugmiuq),

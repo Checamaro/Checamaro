@@ -29,7 +29,7 @@ QA Engineer with hands-on experience testing web, mobile, and API applications, 
 
 **Automation:** Python · Pytest · Selenium · Appium · CI/CD
 
-**Databases:** MySQL
+**Databases:** PostgreSQL
 
 **Process & tools:** Jira · Asana · SDLC · Git · Bash · Linux
 

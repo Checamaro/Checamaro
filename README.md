@@ -27,7 +27,7 @@ QA Engineer with hands-on experience testing web, mobile, and API applications, 
 
 **Manual testing:** Web Testing · Mobile Testing (Android/iOS) · Game Testing (Unity) · Postman · Swagger/OpenAPI · Charles Proxy · DevTools · JSON
 
-**Automation:** Python · Pytest · Selenium · Appium · CI/CD
+**Automation:** Python · Pytest · Playwright · Selenium · Appium · CI/CD
 
 **Databases:** PostgreSQL
 

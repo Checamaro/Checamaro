@@ -10,6 +10,7 @@ QA Engineer with hands-on experience testing web, mobile, and API applications, 
 
 - **[autotests-ui](https://github.com/Checamaro/autotests-ui)** — UI test automation framework (Python, Pytest, Playwright, Page Object Model, Allure, CI via GitHub Actions)
 - **[autotests-api](https://github.com/Checamaro/autotests-api)** — API test automation framework (Python, Pytest, HTTPX, Pydantic, Allure, CI via GitHub Actions)
+- **[autotests-mobile](https://github.com/Checamaro/web-and-mobile-pikabu-tests)** — Mobile test automation framework (Python, Pytest, Appium, Allure, CI via Jenkins)
 - **[yandex-disk-autotests](https://github.com/Checamaro/yandex-disk-autotests)** — API test automation for Yandex Disk, built independently as a take-home assignment for a QA position at Yandex
 - **[performance-tests](https://github.com/Checamaro/performance-tests)** — Load and performance testing with Python and Locust
 
